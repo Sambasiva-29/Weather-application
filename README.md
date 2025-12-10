@@ -141,6 +141,13 @@ python-dotenv
 
 sqlite3 (built-in)
 
+## Screenshots
+<img width="1901" height="1079" alt="Image" src="https://github.com/user-attachments/assets/7fee78c0-f763-4501-bd01-9f513e35dbdc" />
+
+<img width="1896" height="481" alt="Image" src="https://github.com/user-attachments/assets/8f1998bd-61e0-4e1d-ac1c-3129782d0cc0" />
+
+<img width="1877" height="789" alt="Image" src="https://github.com/user-attachments/assets/6fc76566-595d-4129-baa2-a0e97d2b4a9d" />
+
 ## License
 
 This project was developed as part of the Flipkart Internship Task.
